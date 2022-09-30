@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><img align="center" src="https://scontent.fcgp1-1.fna.fbcdn.net/v/t39.30808-6/307459899_1219536472166863_1030092183793418958_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHMF-0-Yuqku5Qk2oaEAjMGPOh3-TrwwLY86Hf5OvDAtoiUtFM0FYGtudCqhgiWyJ8OuLmwMeGnogaHD1rFXfZE&_nc_ohc=6TPkcAvHWgUAX-4RoKx&_nc_zt=23&_nc_ht=scontent.fcgp1-1.fna&oh=00_AT-MAg3KGbCgKMyNvSiNZ5uK14-pOEQ9nng2mTxOI8egNw&oe=632F901B" alt="emrul79" /></p>
+<p align="center">
+<img align="center" src="https://scontent.fcgp4-1.fna.fbcdn.net/v/t39.30808-6/307459899_1219536472166863_1030092183793418958_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHMF-0-Yuqku5Qk2oaEAjMGPOh3-TrwwLY86Hf5OvDAtoiUtFM0FYGtudCqhgiWyJ8OuLmwMeGnogaHD1rFXfZE&_nc_ohc=1aTSjF16GMYAX8CxdhI&_nc_zt=23&_nc_ht=scontent.fcgp4-1.fna&oh=00_AT8JVB231u-0LypL5kTX4kfdE6uJm7iDoVcO7kos0UfHWw&oe=633B6D9B" alt="myimg" />
+</p>
+
 
 
 
